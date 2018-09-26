@@ -1,0 +1,2 @@
+../src/counter_load.v
+../tb/counter_load_tb.v

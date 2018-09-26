@@ -1,0 +1,2 @@
+../src/fsm.v
+../tb/fsm_tb.v

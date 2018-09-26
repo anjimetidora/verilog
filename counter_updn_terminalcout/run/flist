@@ -1,0 +1,2 @@
+../src/counter_updn_ter.v
+../tb/counter_updn_term_tb.v

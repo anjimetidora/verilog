@@ -1,0 +1,59 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/LABs/verilog/counter/run
+T_opt
+!s110 1537965636
+VMV?R1AX2@81A7a_DT6I?50
+04 2 4 work tb fast 0
+=1-2c337afcabad-5bab7e43-354-16b8
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4e;61
+R0
+vcounter
+Z1 !s110 1537965984
+!i10b 1
+!s100 ;0dDimNd@m2WVPUl?F4hQ2
+ISM]=iI0l_nN@ae18@XK1Z3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1479166136
+8../scr/counter.v
+F../scr/counter.v
+L0 40
+Z3 OL;L;10.4e;61
+r1
+!s85 0
+31
+Z4 !s108 1537965984.000000
+Z5 !s107 ../tb/counter_tb.v|../scr/counter.v|
+Z6 !s90 -f|flist|
+!i113 0
+Z7 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtb
+R1
+!i10b 1
+!s100 EO4em_<fh_7ST`Ka@VGgj2
+I:Hj29b8[DKYMbd?YcT6ZH1
+R2
+R0
+w1477517948
+8../tb/counter_tb.v
+F../tb/counter_tb.v
+L0 39
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7

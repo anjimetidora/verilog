@@ -1,0 +1,71 @@
+# Reading D:/EDA_Installations/Questasim/tcl/vsim/pref.tcl
+# //  Questa Sim-64
+# //  Version 10.4e win64 Apr  9 2016
+# //
+# //  Copyright 1991-2016 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# vsim -gui work.tb -novopt -l sim_gui.log -wlf waveform.wlf 
+# Start time: 13:52:05 on Sep 26,2018
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing D:/LABs/verilog/mux/run/work.tb
+# Loading work.tb
+# Refreshing D:/LABs/verilog/mux/run/work.mux
+# Loading work.mux
+add wave -position insertpoint sim:/tb/dut_ista/*
+run -continue
+run -continue
+run -continue
+run -all
+# tb.monitor_blk time=                   0,	sel=00,	ino=x,	in1=1,	in2=0,	in3=1, out=x
+# tb.monitor_blk time=                   5,	sel=00,	ino=0,	in1=1,	in2=0,	in3=1, out=0
+# tb.monitor_blk time=                  15,	sel=00,	ino=x,	in1=1,	in2=0,	in3=1, out=x
+# tb.monitor_blk time=                  20,	sel=00,	ino=z,	in1=1,	in2=0,	in3=1, out=z
+# tb.monitor_blk time=                  25,	sel=01,	ino=0,	in1=1,	in2=0,	in3=1, out=1
+# tb.monitor_blk time=                  35,	sel=01,	ino=0,	in1=0,	in2=1,	in3=1, out=0
+# tb.monitor_blk time=                  40,	sel=01,	ino=0,	in1=z,	in2=1,	in3=1, out=z
+# tb.monitor_blk time=                  45,	sel=01,	ino=1,	in1=1,	in2=0,	in3=1, out=1
+# tb.monitor_blk time=                  50,	sel=10,	ino=1,	in1=x,	in2=0,	in3=1, out=0
+# tb.monitor_blk time=                  55,	sel=10,	ino=1,	in1=x,	in2=z,	in3=1, out=z
+# tb.monitor_blk time=                  60,	sel=10,	ino=1,	in1=0,	in2=x,	in3=1, out=x
+# tb.monitor_blk time=                  65,	sel=10,	ino=0,	in1=1,	in2=0,	in3=1, out=0
+# tb.monitor_blk time=                  70,	sel=10,	ino=0,	in1=1,	in2=1,	in3=1, out=1
+# tb.monitor_blk time=                  75,	sel=11,	ino=0,	in1=1,	in2=1,	in3=1, out=1
+# tb.monitor_blk time=                  80,	sel=11,	ino=0,	in1=1,	in2=1,	in3=x, out=x
+# tb.monitor_blk time=                  85,	sel=11,	ino=1,	in1=1,	in2=1,	in3=1, out=1
+# tb.monitor_blk time=                  90,	sel=11,	ino=1,	in1=1,	in2=1,	in3=x, out=x
+# tb.monitor_blk time=                  95,	sel=11,	ino=1,	in1=1,	in2=1,	in3=0, out=0
+# tb.monitor_blk time=                 100,	sel=1x,	ino=1,	in1=0,	in2=0,	in3=1, out=x
+# tb.monitor_blk time=                 105,	sel=x1,	ino=0,	in1=1,	in2=1,	in3=0, out=x
+# tb.monitor_blk time=                 110,	sel=0x,	ino=0,	in1=1,	in2=1,	in3=0, out=x
+# tb.monitor_blk time=                 115,	sel=zz,	ino=0,	in1=1,	in2=1,	in3=0, out=x
+# tb.monitor_blk time=                 120,	sel=1z,	ino=1,	in1=0,	in2=0,	in3=0, out=x
+# tb.monitor_blk time=                 125,	sel=z0,	ino=1,	in1=1,	in2=1,	in3=0, out=x
+# tb.monitor_blk time=                 130,	sel=11,	ino=1,	in1=1,	in2=1,	in3=0, out=0
+# tb.monitor_blk time=                 135,	sel=xx,	ino=1,	in1=1,	in2=1,	in3=0, out=x
+# tb.monitor_blk time=                 140,	sel=1x,	ino=1,	in1=1,	in2=1,	in3=0, out=x
+# tb.monitor_blk time=                 145,	sel=00,	ino=1,	in1=1,	in2=1,	in3=0, out=1
+# tb.monitor_blk time=                 150,	sel=0z,	ino=0,	in1=1,	in2=1,	in3=0, out=x
+# tb.monitor_blk time=                 155,	sel=xx,	ino=1,	in1=1,	in2=1,	in3=0, out=x
+# tb.monitor_blk time=                 160,	sel=zx,	ino=1,	in1=1,	in2=0,	in3=0, out=x
+# tb.monitor_blk time=                 165,	sel=xz,	ino=1,	in1=1,	in2=1,	in3=0, out=x
+# tb.monitor_blk time=                 170,	sel=zz,	ino=0,	in1=0,	in2=0,	in3=0, out=x
+# tb.monitor_blk time=                 175,	sel=1x,	ino=1,	in1=1,	in2=1,	in3=0, out=x
+# tb.monitor_blk time=                 180,	sel=x0,	ino=0,	in1=1,	in2=1,	in3=0, out=x
+# tb.monitor_blk time=                 185,	sel=z1,	ino=0,	in1=0,	in2=0,	in3=0, out=x
+# ** Note: $finish    : ../tb/mux_tb.v(86)
+#    Time: 285 ns  Iteration: 0  Instance: /tb
+# 1
+# Break in NamedBeginStat test_cases at ../tb/mux_tb.v line 86
+# End time: 13:54:30 on Sep 26,2018, Elapsed time: 0:02:25
+# Errors: 0, Warnings: 1

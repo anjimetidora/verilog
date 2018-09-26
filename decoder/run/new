@@ -1,0 +1,123 @@
+# Aldec, Inc. Riviera-PRO version 2016.06.92.6242 built for Linux64 on June 28, 2016.
+# HDL, SystemC, and Assertions simulator, debugger, and design 
+# (c) 1999-2016 Aldec, Inc. All rights reserved.
+vsim tb
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: G
+# SLP: G
+# SLP: Finished : 0.1 [s]
+# SLP: 0 primitives and 4 (100.00%) other processes in SLP
+# SLP: 7 (100.00%) signals in SLP and 0 interface signals
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Riviera-PRO EDU Edition. The performance of simulation is reduced.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5724 kB (elbread=1450 elab2=4139 kernel=134 sdf=0)
+# KERNEL: ASDB file was created in location /home/commonfolder/common_dora/verilog_specs/decoder/run/dataset.asdb
+run -all;
+# KERNEL: tb.monitor_blk time=0,	
+# KERNEL: tb.monitor_blk time=1,	
+# KERNEL: tb.monitor_blk time=2,	
+# KERNEL: tb.monitor_blk time=3,	
+# KERNEL: tb.monitor_blk time=4,	
+# KERNEL: tb.monitor_blk time=5,	
+# KERNEL: tb.monitor_blk time=6,	
+# KERNEL: tb.monitor_blk time=7,	
+# KERNEL: tb.monitor_blk time=8,	
+# KERNEL: tb.monitor_blk time=9,	
+# KERNEL: tb.monitor_blk time=10,	
+# KERNEL: tb.monitor_blk time=11,	
+# KERNEL: tb.monitor_blk time=12,	
+# KERNEL: tb.monitor_blk time=13,	
+# KERNEL: tb.monitor_blk time=14,	
+# KERNEL: tb.monitor_blk time=15,	
+# KERNEL: tb.monitor_blk time=16,	
+# KERNEL: tb.monitor_blk time=17,	
+# KERNEL: tb.monitor_blk time=18,	
+# KERNEL: tb.monitor_blk time=19,	
+# KERNEL: tb.monitor_blk time=20,	
+# KERNEL: tb.monitor_blk time=21,	
+# KERNEL: tb.monitor_blk time=22,	
+# KERNEL: tb.monitor_blk time=23,	
+# KERNEL: tb.monitor_blk time=24,	
+# KERNEL: tb.monitor_blk time=25,	
+# KERNEL: tb.monitor_blk time=26,	
+# KERNEL: tb.monitor_blk time=27,	
+# KERNEL: tb.monitor_blk time=28,	
+# KERNEL: tb.monitor_blk time=29,	
+# KERNEL: tb.monitor_blk time=30,	
+# KERNEL: tb.monitor_blk time=31,	
+# KERNEL: tb.monitor_blk time=32,	
+# KERNEL: tb.monitor_blk time=33,	
+# KERNEL: tb.monitor_blk time=34,	
+# KERNEL: tb.monitor_blk time=35,	
+# KERNEL: tb.monitor_blk time=36,	
+# KERNEL: tb.monitor_blk time=37,	
+# KERNEL: tb.monitor_blk time=38,	
+# KERNEL: tb.monitor_blk time=39,	
+# KERNEL: tb.monitor_blk time=40,	
+# KERNEL: tb.monitor_blk time=41,	
+# KERNEL: tb.monitor_blk time=42,	
+# KERNEL: tb.monitor_blk time=43,	
+# KERNEL: tb.monitor_blk time=44,	
+# KERNEL: tb.monitor_blk time=45,	
+# KERNEL: tb.monitor_blk time=46,	
+# KERNEL: tb.monitor_blk time=47,	
+# KERNEL: tb.monitor_blk time=48,	
+# KERNEL: tb.monitor_blk time=49,	
+# KERNEL: tb.monitor_blk time=50,	
+# KERNEL: tb.monitor_blk time=51,	
+# KERNEL: tb.monitor_blk time=52,	
+# KERNEL: tb.monitor_blk time=53,	
+# KERNEL: tb.monitor_blk time=54,	
+# KERNEL: tb.monitor_blk time=55,	
+# KERNEL: tb.monitor_blk time=56,	
+# KERNEL: tb.monitor_blk time=57,	
+# KERNEL: tb.monitor_blk time=58,	
+# KERNEL: tb.monitor_blk time=59,	
+# KERNEL: tb.monitor_blk time=60,	
+# KERNEL: tb.monitor_blk time=61,	
+# KERNEL: tb.monitor_blk time=62,	
+# KERNEL: tb.monitor_blk time=63,	
+# KERNEL: tb.monitor_blk time=64,	
+# KERNEL: tb.monitor_blk time=65,	
+# KERNEL: tb.monitor_blk time=66,	
+# KERNEL: tb.monitor_blk time=67,	
+# KERNEL: tb.monitor_blk time=68,	
+# KERNEL: tb.monitor_blk time=69,	
+# KERNEL: tb.monitor_blk time=70,	
+# KERNEL: tb.monitor_blk time=71,	
+# KERNEL: tb.monitor_blk time=72,	
+# KERNEL: tb.monitor_blk time=73,	
+# KERNEL: tb.monitor_blk time=74,	
+# KERNEL: tb.monitor_blk time=75,	
+# KERNEL: tb.monitor_blk time=76,	
+# KERNEL: tb.monitor_blk time=77,	
+# KERNEL: tb.monitor_blk time=78,	
+# KERNEL: tb.monitor_blk time=79,	
+# KERNEL: tb.monitor_blk time=80,	
+# KERNEL: tb.monitor_blk time=81,	
+# KERNEL: tb.monitor_blk time=82,	
+# KERNEL: tb.monitor_blk time=83,	
+# KERNEL: tb.monitor_blk time=84,	
+# KERNEL: tb.monitor_blk time=85,	
+# KERNEL: tb.monitor_blk time=86,	
+# KERNEL: tb.monitor_blk time=87,	
+# RUNTIME: Info: RUNTIME_0068 decoder_tb.v (138): $finish called.
+# KERNEL: Time: 117 ps,  Iteration: 0,  Instance: /tb,  Process: @INITIAL#47_0@.
+# KERNEL: stopped at time: 117 ps
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+quit
+# VSIM: Simulation has finished.

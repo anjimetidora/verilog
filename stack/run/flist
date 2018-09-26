@@ -1,0 +1,2 @@
+../src/stack.v
+../tb/stack_tb.v

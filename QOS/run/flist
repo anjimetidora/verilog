@@ -1,0 +1,2 @@
+../src/qos.v
+../tb/QOS_tb.v

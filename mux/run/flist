@@ -1,0 +1,2 @@
+../src/mux.v
+../tb/mux_tb.v

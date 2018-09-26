@@ -1,0 +1,2 @@
+../src/memory_controller.v
+../tb/mem_cont_tb.v
